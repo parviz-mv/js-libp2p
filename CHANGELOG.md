@@ -10,6 +10,19 @@
 
 
 
+## [0.43.0](https://www.github.com/libp2p/js-libp2p/compare/v0.42.2...v0.43.0) (2023-02-21)
+
+
+### Features
+
+* updated connection manager and dialer with new interface methods ([#1586](https://www.github.com/libp2p/js-libp2p/issues/1586)) ([f6f73a2](https://www.github.com/libp2p/js-libp2p/commit/f6f73a21ebf15d1811fb95cc3972f950c0f52789))
+
+
+### Bug Fixes
+
+* exclude peers without multiaddrs from auto dial ([#1568](https://www.github.com/libp2p/js-libp2p/issues/1568)) ([e12202e](https://www.github.com/libp2p/js-libp2p/commit/e12202e9236c4cacb10938c1101563f4c7cf580c))
+* use @libp2p/keychain module instead of bundling source code ([#1569](https://www.github.com/libp2p/js-libp2p/issues/1569)) ([c02e1bd](https://www.github.com/libp2p/js-libp2p/commit/c02e1bd4982feb2d69021abc54c1603c01291867))
+
 ### [0.42.2](https://www.github.com/libp2p/js-libp2p/compare/v0.42.1...v0.42.2) (2023-01-17)
 
 
